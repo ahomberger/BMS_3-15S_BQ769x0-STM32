@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/Microcontroleurs/Nucleo_Perceuse/Inc",
+                "D:/Microcontroleurs/Nucleo_Perceuse/Src",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/CMSIS/Include",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/CMSIS/Device/ST/STM32F0xx/Include",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/STM32F0xx_HAL_Driver/Inc",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/Common",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/STM32F0xx-Nucleo",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/hx8347d",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/l3gd20",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/spfd5408",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/st7735",
+                "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/stlm75",
+                "C:/Users/Alex/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "D:/Microcontroleurs/Nucleo_Perceuse/Inc",
+                    "D:/Microcontroleurs/Nucleo_Perceuse/Src",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/CMSIS/Include",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/CMSIS/Device/ST/STM32F0xx/Include",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/STM32F0xx_HAL_Driver/Inc",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/Common",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/STM32F0xx-Nucleo",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/hx8347d",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/l3gd20",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/spfd5408",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/st7735",
+                    "C:/Users/Alex/.platformio/packages/framework-stm32cube/f0/Drivers/BSP/Components/stlm75",
+                    "C:/Users/Alex/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40303",
+                "STM32F072xB",
+                "USE_HAL_DRIVER",
+                "F_CPU=48000000L",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Users/Alex/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m0",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
